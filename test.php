@@ -11,7 +11,7 @@
     <h1>SAFE</h1>
     <nav>
       <a href="index.php">Forside</a>
-      <a href="test.php">Kodegenerator & test af kodeord</a>
+      <a href="test.php">Test af kodeord</a>
         <a href="dict.php">Ordbog</a>
     </nav>
   </header>
